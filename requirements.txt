@@ -1,0 +1,4 @@
+rapidfuzz==1.9.1
+fastapi[all]
+pandas
+xlrd
